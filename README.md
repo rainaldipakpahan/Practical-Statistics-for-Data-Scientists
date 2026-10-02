@@ -7,7 +7,9 @@ Repository ini berisi implementasi kode dan ringkasan materi dari buku
 
 **Nama:** Rainaldi Pakpahan  
 **NIM:** 101032300084  
-**Kelas:** TK 47-04  
+
+**Nama:** Firdaus Arif Ramadhani  
+**NIM:** 101032300131  
 
 ## Deskripsi
 
