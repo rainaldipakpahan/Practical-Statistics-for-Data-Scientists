@@ -59,6 +59,8 @@ Membahas metode klasifikasi untuk memprediksi kategori atau kelas berdasarkan ka
 
 Selain itu, chapter ini membahas evaluasi model klasifikasi menggunakan Confusion Matrix, Accuracy, Precision, Recall, F1-Score, ROC Curve, AUC, dan Precision–Recall Curve. Penanganan data tidak seimbang juga dibahas melalui undersampling, oversampling, serta cost-based classification.
 
+Notebook terdiri dari dua bagian. Bagian A mereproduksi contoh buku memakai data pinjaman (Lending Club) dari repository resmi buku, sedangkan Bagian B memakai dataset bawaan scikit-learn sebagai contoh tambahan.
+
 File:  
 `05_Classification.ipynb`
 
@@ -69,6 +71,8 @@ Membahas penerapan algoritma machine learning untuk klasifikasi dan prediksi, di
 Selanjutnya membahas Decision Tree, Gini Impurity, Entropy, Regression Tree, Bagging, Random Forest, Out-of-Bag (OOB) Evaluation, Feature Importance, AdaBoost, Gradient Boosting, serta XGBoost.
 
 Chapter ini juga mencakup evaluasi dan perbandingan beberapa algoritma untuk memahami pengaruh pemilihan model serta hyperparameter terhadap hasil prediksi.
+
+Seperti Chapter 5, notebook terdiri dari Bagian A (reproduksi contoh buku dengan data pinjaman) dan Bagian B (contoh tambahan dengan dataset scikit-learn).
 
 File:  
 `06_Statistical_Machine_Learning.ipynb`
@@ -83,7 +87,9 @@ File:
 - Seaborn
 - SciPy
 - Scikit-learn
+- Statsmodels
 - XGBoost
+- wquantiles
 
 ## Cara Menjalankan
 
