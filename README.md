@@ -1,6 +1,6 @@
 # Practical Statistics for Data Scientists
 
-Repository ini berisi implementasi kode dan ringkasan materi dari buku *Practical Statistics for Data Scientists, 2nd Edition*, yang mencakup Chapter 1 sampai Chapter 6.
+Repository ini berisi implementasi kode dan ringkasan materi dari buku *Practical Statistics for Data Scientists, 2nd Edition*, yang mencakup Chapter 1 sampai Chapter 7.
 
 ## Identitas
 
@@ -76,6 +76,15 @@ Seperti Chapter 5, notebook terdiri dari Bagian A (reproduksi contoh buku dengan
 
 File:  
 `06_Statistical_Machine_Learning.ipynb`
+
+### Chapter 7 — Unsupervised Learning
+
+Membahas metode untuk menemukan struktur pada data tanpa variabel target. Materinya mencakup Principal Components Analysis (PCA), Correspondence Analysis, K-Means Clustering, Hierarchical Clustering, serta Model-Based Clustering dengan Gaussian Mixture dan BIC.
+
+Selain itu, chapter ini membahas pengaruh penskalaan variabel dan data kategorikal pada hasil clustering, termasuk jarak Gower untuk data campuran.
+
+File:  
+`07_Unsupervised_Learning.ipynb`
 
 ## Tools
 
