@@ -30,28 +30,28 @@ Pembahasan disusun berdasarkan materi pada buku dengan menggunakan Google Colab 
 Membahas proses eksplorasi data, statistik deskriptif, ukuran penyebaran, distribusi data, outlier, data kategorikal, korelasi, dan hubungan antarvariabel. Chapter ini menjadi dasar untuk memahami karakteristik dataset sebelum dilakukan analisis lebih lanjut.
 
 File:  
-`PracticalStatisticsChapter1.ipynb`
+`01_Exploratory_Data_Analysis.ipynb`
 
 ### Chapter 2 — Data and Sampling Distributions
 
 Membahas population dan sample, random sampling, sampling distribution, standard error, bootstrap, confidence interval, normal distribution, t-distribution, binomial distribution, dan Poisson distribution.
 
 File:  
-`PracticalStatisticsChapter2.ipynb`
+`02_Data_and_Sampling_Distributions.ipynb`
 
 ### Chapter 3 — Statistical Experiments and Significance Testing
 
 Membahas A/B testing, hypothesis testing, permutation test, p-value, t-test, ANOVA, dan chi-square test. Materi ini digunakan untuk memahami cara menguji hipotesis dan menentukan apakah perbedaan hasil pengamatan signifikan secara statistik.
 
 File:  
-`PracticalStatisticsChapter3.ipynb`
+`03_Statistical_Experiments_and_Significance_Testing.ipynb`
 
 ### Chapter 4 — Regression and Prediction
 
 Membahas simple linear regression, multiple linear regression, prediksi, residual, R-squared, RMSE, serta perbandingan nilai aktual dan hasil prediksi. Analisis digunakan untuk mengetahui hubungan antarvariabel dan mengukur kemampuan model dalam melakukan prediksi.
 
 File:  
-`PracticalStatisticsChapter4.ipynb`
+`04_Regression_and_Prediction.ipynb`
 
 ### Chapter 5 — Classification
 
